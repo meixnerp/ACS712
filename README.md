@@ -14,7 +14,7 @@
 Library for the ACS712 Current Sensor - 5A, 20A, 30A and compatibles.
 
 
-## Description
+### Description
 
 The ACS712 is a chip to measure current, both AC or DC. The chip has an
 analogue output that provides a voltage that is linear with the current.
